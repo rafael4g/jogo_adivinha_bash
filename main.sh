@@ -34,7 +34,7 @@ in_range() [[ $1 -ge $rmin && $1 -le $rmax ]]
 
 # Funções de conferência...
 is_higher() [[ $1 -gt $sec ]]
-is_lower() [[ $1 -le $sec ]]
+is_lower() [[ $1 -lt $sec ]]
 
 check_guess() {
     # Validação se falso retornar o estado de saida como 3
