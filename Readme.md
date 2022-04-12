@@ -1,4 +1,4 @@
-# JOGO DA ADVINHAÇÃO EM BASH.
+# JOGO DA ADIVINHAÇÃO EM BASH.
 
 ### Projeto desenvolvido durante as video aulas de `Criação de scripts em Bash` do canal [debxp](https://www.youtube.com/channel/UC8EGrwe_DXSzrCQclf_pv9g) do youtube,
 ministrado por Blau Araujo.
